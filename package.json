@@ -1,0 +1,21 @@
+{
+  "name": "interrogation-one",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Sebastián Vicencio",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "dependencies": {
+    "ejs": "^3.1.5"
+  },
+  "engines": {
+    "node": "10.x || 12.x"
+  }
+}

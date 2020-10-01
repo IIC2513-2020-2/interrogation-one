@@ -1,0 +1,1946 @@
+{
+  "laureates": [
+    {
+      "id": "903",
+      "firstname": "John",
+      "surname": "O'Keefe",
+      "born": "1939-11-18",
+      "died": "0000-00-00",
+      "bornCountry": "USA",
+      "bornCountryCode": "US",
+      "bornCity": "New York, NY",
+      "gender": "male",
+      "prizes": [
+        {
+          "year": "2014",
+          "category": "medicine",
+          "share": "2",
+          "motivation": "\"for their discoveries of cells that constitute a positioning system in the brain\"",
+          "affiliations": [
+            {
+              "name": "University College",
+              "city": "London",
+              "country": "United Kingdom"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "904",
+      "firstname": "May-Britt",
+      "surname": "Moser",
+      "born": "1963-01-04",
+      "died": "0000-00-00",
+      "bornCountry": "Norway",
+      "bornCountryCode": "NO",
+      "bornCity": "Fosnavåg",
+      "gender": "female",
+      "prizes": [
+        {
+          "year": "2014",
+          "category": "medicine",
+          "share": "4",
+          "motivation": "\"for their discoveries of cells that constitute a positioning system in the brain\"",
+          "affiliations": [
+            {
+              "name": "Norwegian University of Science and Technology (NTNU)",
+              "city": "Trondheim",
+              "country": "Norway"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "905",
+      "firstname": "Edvard I.",
+      "surname": "Moser",
+      "born": "1962-04-27",
+      "died": "0000-00-00",
+      "bornCountry": "Norway",
+      "bornCountryCode": "NO",
+      "bornCity": "Ålesund",
+      "gender": "male",
+      "prizes": [
+        {
+          "year": "2014",
+          "category": "medicine",
+          "share": "4",
+          "motivation": "\"for their discoveries of cells that constitute a positioning system in the brain\"",
+          "affiliations": [
+            {
+              "name": "Norwegian University of Science and Technology (NTNU)",
+              "city": "Trondheim",
+              "country": "Norway"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "906",
+      "firstname": "Isamu",
+      "surname": "Akasaki",
+      "born": "1929-01-30",
+      "died": "0000-00-00",
+      "bornCountry": "Japan",
+      "bornCountryCode": "JP",
+      "bornCity": "Chiran",
+      "gender": "male",
+      "prizes": [
+        {
+          "year": "2014",
+          "category": "physics",
+          "share": "3",
+          "motivation": "\"for the invention of efficient blue light-emitting diodes which has enabled bright and energy-saving white light sources\"",
+          "affiliations": [
+            {
+              "name": "Meijo University",
+              "city": "Nagoya",
+              "country": "Japan"
+            },
+            {
+              "name": "Nagoya University",
+              "city": "Nagoya",
+              "country": "Japan"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "907",
+      "firstname": "Hiroshi",
+      "surname": "Amano",
+      "born": "1960-09-11",
+      "died": "0000-00-00",
+      "bornCountry": "Japan",
+      "bornCountryCode": "JP",
+      "bornCity": "Hamamatsu",
+      "gender": "male",
+      "prizes": [
+        {
+          "year": "2014",
+          "category": "physics",
+          "share": "3",
+          "motivation": "\"for the invention of efficient blue light-emitting diodes which has enabled bright and energy-saving white light sources\"",
+          "affiliations": [
+            {
+              "name": "Nagoya University",
+              "city": "Nagoya",
+              "country": "Japan"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "908",
+      "firstname": "Shuji",
+      "surname": "Nakamura",
+      "born": "1954-05-22",
+      "died": "0000-00-00",
+      "bornCountry": "Japan",
+      "bornCountryCode": "JP",
+      "bornCity": "Ikata",
+      "gender": "male",
+      "prizes": [
+        {
+          "year": "2014",
+          "category": "physics",
+          "share": "3",
+          "motivation": "\"for the invention of efficient blue light-emitting diodes which has enabled bright and energy-saving white light sources\"",
+          "affiliations": [
+            {
+              "name": "University of California",
+              "city": "Santa Barbara, CA",
+              "country": "USA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "909",
+      "firstname": "Eric",
+      "surname": "Betzig",
+      "born": "1960-01-13",
+      "died": "0000-00-00",
+      "bornCountry": "USA",
+      "bornCountryCode": "US",
+      "bornCity": "Ann Arbor, MI",
+      "gender": "male",
+      "prizes": [
+        {
+          "year": "2014",
+          "category": "chemistry",
+          "share": "3",
+          "motivation": "\"for the development of super-resolved fluorescence microscopy\"",
+          "affiliations": [
+            {
+              "name": "Janelia Research Campus, Howard Hughes Medical Institute",
+              "city": "Ashburn, VA",
+              "country": "USA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "910",
+      "firstname": "Stefan W.",
+      "surname": "Hell",
+      "born": "1962-12-23",
+      "died": "0000-00-00",
+      "bornCountry": "Romania",
+      "bornCountryCode": "RO",
+      "bornCity": "Arad",
+      "gender": "male",
+      "prizes": [
+        {
+          "year": "2014",
+          "category": "chemistry",
+          "share": "3",
+          "motivation": "\"for the development of super-resolved fluorescence microscopy\"",
+          "affiliations": [
+            {
+              "name": "Max Planck Institute for Biophysical Chemistry",
+              "city": "Göttingen",
+              "country": "Germany"
+            },
+            {
+              "name": "German Cancer Research Center",
+              "city": "Heidelberg",
+              "country": "Germany"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "911",
+      "firstname": "William E.",
+      "surname": "Moerner",
+      "born": "1953-06-24",
+      "died": "0000-00-00",
+      "bornCountry": "USA",
+      "bornCountryCode": "US",
+      "bornCity": "Pleasanton, CA",
+      "gender": "male",
+      "prizes": [
+        {
+          "year": "2014",
+          "category": "chemistry",
+          "share": "3",
+          "motivation": "\"for the development of super-resolved fluorescence microscopy\"",
+          "affiliations": [
+            {
+              "name": "Stanford University",
+              "city": "Stanford, CA",
+              "country": "USA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "912",
+      "firstname": "Patrick",
+      "surname": "Modiano",
+      "born": "1945-07-30",
+      "died": "0000-00-00",
+      "bornCountry": "France",
+      "bornCountryCode": "FR",
+      "bornCity": "Paris",
+      "gender": "male",
+      "prizes": [
+        {
+          "year": "2014",
+          "category": "literature",
+          "share": "1",
+          "motivation": "\"for the art of memory with which he has evoked the most ungraspable human destinies and\r\nuncovered the life-world of the occupation\"",
+          "affiliations": [
+            []
+          ]
+        }
+      ]
+    },
+    {
+      "id": "913",
+      "firstname": "Kailash",
+      "surname": "Satyarthi",
+      "born": "1954-01-11",
+      "died": "0000-00-00",
+      "bornCountry": "India",
+      "bornCountryCode": "IN",
+      "bornCity": "Vidisha",
+      "gender": "male",
+      "prizes": [
+        {
+          "year": "2014",
+          "category": "peace",
+          "share": "2",
+          "motivation": "\"for their struggle against the suppression of children and young people and for the right of all children to education\"",
+          "affiliations": [
+            []
+          ]
+        }
+      ]
+    },
+    {
+      "id": "914",
+      "firstname": "Malala",
+      "surname": "Yousafzai",
+      "born": "1997-07-12",
+      "died": "0000-00-00",
+      "bornCountry": "Pakistan",
+      "bornCountryCode": "PK",
+      "bornCity": "Mingora",
+      "gender": "female",
+      "prizes": [
+        {
+          "year": "2014",
+          "category": "peace",
+          "share": "2",
+          "motivation": "\"for their struggle against the suppression of children and young people and for the right of all children to education\"",
+          "affiliations": [
+            []
+          ]
+        }
+      ]
+    },
+    {
+      "id": "915",
+      "firstname": "Jean",
+      "surname": "Tirole",
+      "born": "1953-08-09",
+      "died": "0000-00-00",
+      "bornCountry": "France",
+      "bornCountryCode": "FR",
+      "bornCity": "Troyes",
+      "gender": "male",
+      "prizes": [
+        {
+          "year": "2014",
+          "category": "economics",
+          "share": "1",
+          "motivation": "\"for his analysis of market power and regulation\"",
+          "affiliations": [
+            {
+              "name": "Toulouse School of Economics (TSE)",
+              "city": "Toulouse",
+              "country": "France"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "916",
+      "firstname": "William C.",
+      "surname": "Campbell",
+      "born": "1930-06-28",
+      "died": "0000-00-00",
+      "bornCountry": "Ireland",
+      "bornCountryCode": "IE",
+      "bornCity": "Ramelton",
+      "gender": "male",
+      "prizes": [
+        {
+          "year": "2015",
+          "category": "medicine",
+          "share": "4",
+          "motivation": "\"for their discoveries concerning a novel therapy against infections caused by roundworm parasites\"",
+          "affiliations": [
+            {
+              "name": "Drew University",
+              "city": "Madison, NJ",
+              "country": "USA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "917",
+      "firstname": "Satoshi",
+      "surname": "&#332;mura",
+      "born": "1935-07-12",
+      "died": "0000-00-00",
+      "bornCountry": "Japan",
+      "bornCountryCode": "JP",
+      "bornCity": "Yamanashi Prefecture",
+      "gender": "male",
+      "prizes": [
+        {
+          "year": "2015",
+          "category": "medicine",
+          "share": "4",
+          "motivation": "\"for their discoveries concerning a novel therapy against infections caused by roundworm parasites\"",
+          "affiliations": [
+            {
+              "name": "Kitasato University",
+              "city": "Tokyo",
+              "country": "Japan"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "918",
+      "firstname": "Youyou",
+      "surname": "Tu",
+      "born": "1930-12-30",
+      "died": "0000-00-00",
+      "bornCountry": "China",
+      "bornCountryCode": "CN",
+      "bornCity": "Zhejiang Ningbo",
+      "gender": "female",
+      "prizes": [
+        {
+          "year": "2015",
+          "category": "medicine",
+          "share": "2",
+          "motivation": "\"for her discoveries concerning a novel therapy against Malaria\"",
+          "affiliations": [
+            {
+              "name": "China Academy of Traditional Chinese Medicine",
+              "city": "Beijing",
+              "country": "China"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "919",
+      "firstname": "Takaaki",
+      "surname": "Kajita",
+      "born": "1959-03-09",
+      "died": "0000-00-00",
+      "bornCountry": "Japan",
+      "bornCountryCode": "JP",
+      "bornCity": "Higashimatsuyama",
+      "gender": "male",
+      "prizes": [
+        {
+          "year": "2015",
+          "category": "physics",
+          "share": "2",
+          "motivation": "\"for the discovery of neutrino oscillations, which shows that neutrinos have mass\"",
+          "affiliations": [
+            {
+              "name": "University of Tokyo",
+              "city": "Kashiwa",
+              "country": "Japan"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "920",
+      "firstname": "Arthur B.",
+      "surname": "McDonald",
+      "born": "1943-08-29",
+      "died": "0000-00-00",
+      "bornCountry": "Canada",
+      "bornCountryCode": "CA",
+      "bornCity": "Sydney",
+      "gender": "male",
+      "prizes": [
+        {
+          "year": "2015",
+          "category": "physics",
+          "share": "2",
+          "motivation": "\"for the discovery of neutrino oscillations, which shows that neutrinos have mass\"",
+          "affiliations": [
+            {
+              "name": "Queen's University",
+              "city": "Kingston",
+              "country": "Canada"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "921",
+      "firstname": "Tomas",
+      "surname": "Lindahl",
+      "born": "1938-01-28",
+      "died": "0000-00-00",
+      "bornCountry": "Sweden",
+      "bornCountryCode": "SE",
+      "bornCity": "Stockholm",
+      "gender": "male",
+      "prizes": [
+        {
+          "year": "2015",
+          "category": "chemistry",
+          "share": "3",
+          "motivation": "\"for mechanistic studies of DNA repair\"",
+          "affiliations": [
+            {
+              "name": "Francis Crick Institute",
+              "city": "Hertfordshire",
+              "country": "United Kingdom"
+            },
+            {
+              "name": "Clare Hall Laboratory",
+              "city": "Hertfordshire",
+              "country": "United Kingdom"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "922",
+      "firstname": "Paul",
+      "surname": "Modrich",
+      "born": "1946-06-13",
+      "died": "0000-00-00",
+      "bornCountry": "USA",
+      "bornCountryCode": "US",
+      "bornCity": "Raton, NM",
+      "gender": "male",
+      "prizes": [
+        {
+          "year": "2015",
+          "category": "chemistry",
+          "share": "3",
+          "motivation": "\"for mechanistic studies of DNA repair\"",
+          "affiliations": [
+            {
+              "name": "Howard Hughes Medical Institute",
+              "city": "Durham, NC",
+              "country": "USA"
+            },
+            {
+              "name": "Duke University School of Medicine",
+              "city": "Durham, NC",
+              "country": "USA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "923",
+      "firstname": "Aziz",
+      "surname": "Sancar",
+      "born": "1946-09-08",
+      "died": "0000-00-00",
+      "bornCountry": "Turkey",
+      "bornCountryCode": "TR",
+      "bornCity": "Savur",
+      "gender": "male",
+      "prizes": [
+        {
+          "year": "2015",
+          "category": "chemistry",
+          "share": "3",
+          "motivation": "\"for mechanistic studies of DNA repair\"",
+          "affiliations": [
+            {
+              "name": "University of North Carolina",
+              "city": "Chapel Hill, NC",
+              "country": "USA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "924",
+      "firstname": "Svetlana",
+      "surname": "Alexievich",
+      "born": "1948-05-31",
+      "died": "0000-00-00",
+      "bornCountry": "Ukraine",
+      "bornCountryCode": "UA",
+      "bornCity": "Ivano-Frankivsk",
+      "gender": "female",
+      "prizes": [
+        {
+          "year": "2015",
+          "category": "literature",
+          "share": "1",
+          "motivation": "\"for her polyphonic writings, a monument to suffering and courage in our time\"",
+          "affiliations": [
+            []
+          ]
+        }
+      ]
+    },
+    {
+      "id": "925",
+      "firstname": "National Dialogue Quartet ",
+      "died": "0000-00-00",
+      "gender": "org",
+      "prizes": [
+        {
+          "year": "2015",
+          "category": "peace",
+          "share": "1",
+          "motivation": "\"for its decisive contribution to the building of a pluralistic democracy in Tunisia in the wake of the Jasmine Revolution of 2011\"",
+          "affiliations": [
+            []
+          ]
+        }
+      ]
+    },
+    {
+      "id": "926",
+      "firstname": "Angus",
+      "surname": "Deaton",
+      "born": "1945-10-19",
+      "died": "0000-00-00",
+      "bornCountry": "Scotland",
+      "bornCountryCode": "GB",
+      "bornCity": "Edinburgh",
+      "gender": "male",
+      "prizes": [
+        {
+          "year": "2015",
+          "category": "economics",
+          "share": "1",
+          "motivation": "\"for his analysis of consumption, poverty, and welfare\"",
+          "affiliations": [
+            {
+              "name": "Princeton University",
+              "city": "Princeton, NJ",
+              "country": "USA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "927",
+      "firstname": "Yoshinori",
+      "surname": "Ohsumi",
+      "born": "1945-02-09",
+      "died": "0000-00-00",
+      "bornCountry": "Japan",
+      "bornCountryCode": "JP",
+      "bornCity": "Fukuoka",
+      "gender": "male",
+      "prizes": [
+        {
+          "year": "2016",
+          "category": "medicine",
+          "share": "1",
+          "motivation": "\"for his discoveries of mechanisms for autophagy\"",
+          "affiliations": [
+            {
+              "name": "Tokyo Institute of Technology",
+              "city": "Tokyo",
+              "country": "Japan"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "928",
+      "firstname": "David J.",
+      "surname": "Thouless",
+      "born": "1934-09-21",
+      "died": "2019-04-06",
+      "bornCountry": "United Kingdom",
+      "bornCountryCode": "GB",
+      "bornCity": "Bearsden",
+      "diedCountry": "United Kingdom",
+      "diedCountryCode": "GB",
+      "diedCity": "Cambridge",
+      "gender": "male",
+      "prizes": [
+        {
+          "year": "2016",
+          "category": "physics",
+          "share": "2",
+          "motivation": "\"for theoretical discoveries of topological phase transitions and topological phases of matter\"",
+          "affiliations": [
+            {
+              "name": "University of Washington",
+              "city": "Seattle, WA",
+              "country": "USA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "929",
+      "firstname": "F. Duncan M.",
+      "surname": "Haldane",
+      "born": "1951-09-14",
+      "died": "0000-00-00",
+      "bornCountry": "United Kingdom",
+      "bornCountryCode": "GB",
+      "bornCity": "London",
+      "gender": "male",
+      "prizes": [
+        {
+          "year": "2016",
+          "category": "physics",
+          "share": "4",
+          "motivation": "\"for theoretical discoveries of topological phase transitions and topological phases of matter\"",
+          "affiliations": [
+            {
+              "name": "Princeton University",
+              "city": "Princeton, NJ",
+              "country": "USA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "930",
+      "firstname": "J. Michael",
+      "surname": "Kosterlitz",
+      "born": "1943-06-22",
+      "died": "0000-00-00",
+      "bornCountry": "United Kingdom",
+      "bornCountryCode": "GB",
+      "bornCity": "Aberdeen",
+      "gender": "male",
+      "prizes": [
+        {
+          "year": "2016",
+          "category": "physics",
+          "share": "4",
+          "motivation": "\"for theoretical discoveries of topological phase transitions and topological phases of matter\"",
+          "affiliations": [
+            {
+              "name": "Brown University",
+              "city": "Providence, RI",
+              "country": "USA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "931",
+      "firstname": "Jean-Pierre",
+      "surname": "Sauvage",
+      "born": "1944-10-21",
+      "died": "0000-00-00",
+      "bornCountry": "France",
+      "bornCountryCode": "FR",
+      "bornCity": "Paris",
+      "gender": "male",
+      "prizes": [
+        {
+          "year": "2016",
+          "category": "chemistry",
+          "share": "3",
+          "motivation": "\"for the design and synthesis of molecular machines\"",
+          "affiliations": [
+            {
+              "name": "University of Strasbourg",
+              "city": "Strasbourg",
+              "country": "France"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "932",
+      "firstname": "Sir J. Fraser",
+      "surname": "Stoddart",
+      "born": "1942-05-24",
+      "died": "0000-00-00",
+      "bornCountry": "United Kingdom",
+      "bornCountryCode": "GB",
+      "bornCity": "Edinburgh",
+      "gender": "male",
+      "prizes": [
+        {
+          "year": "2016",
+          "category": "chemistry",
+          "share": "3",
+          "motivation": "\"for the design and synthesis of molecular machines\"",
+          "affiliations": [
+            {
+              "name": "Northwestern University",
+              "city": "Evanston, IL",
+              "country": "USA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "933",
+      "firstname": "Bernard L.",
+      "surname": "Feringa",
+      "born": "1951-05-18",
+      "died": "0000-00-00",
+      "bornCountry": "the Netherlands",
+      "bornCountryCode": "NL",
+      "bornCity": "Barger-Compascuum",
+      "gender": "male",
+      "prizes": [
+        {
+          "year": "2016",
+          "category": "chemistry",
+          "share": "3",
+          "motivation": "\"for the design and synthesis of molecular machines\"",
+          "affiliations": [
+            {
+              "name": "University of Groningen",
+              "city": "Groningen",
+              "country": "the Netherlands"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "934",
+      "firstname": "Juan Manuel",
+      "surname": "Santos",
+      "born": "1951-08-10",
+      "died": "0000-00-00",
+      "bornCountry": "Colombia",
+      "bornCountryCode": "CO",
+      "bornCity": "Bogotá",
+      "gender": "male",
+      "prizes": [
+        {
+          "year": "2016",
+          "category": "peace",
+          "share": "1",
+          "motivation": "\"for his resolute efforts to bring the country's more than 50-year-long civil war to an end\"",
+          "affiliations": [
+            []
+          ]
+        }
+      ]
+    },
+    {
+      "id": "935",
+      "firstname": "Oliver",
+      "surname": "Hart",
+      "born": "1948-10-09",
+      "died": "0000-00-00",
+      "bornCountry": "United Kingdom",
+      "bornCountryCode": "GB",
+      "bornCity": "London",
+      "gender": "male",
+      "prizes": [
+        {
+          "year": "2016",
+          "category": "economics",
+          "share": "2",
+          "motivation": "\"for their contributions to contract theory\"",
+          "affiliations": [
+            {
+              "name": "Harvard University",
+              "city": "Cambridge, MA",
+              "country": "USA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "936",
+      "firstname": "Bengt",
+      "surname": "Holmström",
+      "born": "1949-04-18",
+      "died": "0000-00-00",
+      "bornCountry": "Finland",
+      "bornCountryCode": "FI",
+      "bornCity": "Helsinki",
+      "gender": "male",
+      "prizes": [
+        {
+          "year": "2016",
+          "category": "economics",
+          "share": "2",
+          "motivation": "\"for their contributions to contract theory\"",
+          "affiliations": [
+            {
+              "name": "Massachusetts Institute of Technology (MIT)",
+              "city": "Cambridge, MA",
+              "country": "USA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "937",
+      "firstname": "Bob",
+      "surname": "Dylan",
+      "born": "1941-05-24",
+      "died": "0000-00-00",
+      "bornCountry": "USA",
+      "bornCountryCode": "US",
+      "bornCity": "Duluth, MN",
+      "gender": "male",
+      "prizes": [
+        {
+          "year": "2016",
+          "category": "literature",
+          "share": "1",
+          "motivation": "\"for having created new poetic expressions within the great American song tradition\"",
+          "affiliations": [
+            []
+          ]
+        }
+      ]
+    },
+    {
+      "id": "938",
+      "firstname": "Jeffrey C.",
+      "surname": "Hall",
+      "born": "1945-05-03",
+      "died": "0000-00-00",
+      "bornCountry": "USA",
+      "bornCountryCode": "US",
+      "bornCity": "New York, NY",
+      "gender": "male",
+      "prizes": [
+        {
+          "year": "2017",
+          "category": "medicine",
+          "share": "3",
+          "motivation": "\"for their discoveries of molecular mechanisms controlling the circadian rhythm\"",
+          "affiliations": [
+            {
+              "name": "University of Maine",
+              "city": "Maine, ME",
+              "country": "USA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "939",
+      "firstname": "Michael",
+      "surname": "Rosbash",
+      "born": "1944-03-07",
+      "died": "0000-00-00",
+      "bornCountry": "USA",
+      "bornCountryCode": "US",
+      "bornCity": "Kansas City, MO",
+      "gender": "male",
+      "prizes": [
+        {
+          "year": "2017",
+          "category": "medicine",
+          "share": "3",
+          "motivation": "\"for their discoveries of molecular mechanisms controlling the circadian rhythm\"",
+          "affiliations": [
+            {
+              "name": "Brandeis University",
+              "city": "Waltham, MA",
+              "country": "USA"
+            },
+            {
+              "name": "Howard Hughes Medical Institute"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "940",
+      "firstname": "Michael W.",
+      "surname": "Young",
+      "born": "1949-03-28",
+      "died": "0000-00-00",
+      "bornCountry": "USA",
+      "bornCountryCode": "US",
+      "bornCity": "Miami, FL",
+      "gender": "male",
+      "prizes": [
+        {
+          "year": "2017",
+          "category": "medicine",
+          "share": "3",
+          "motivation": "\"for their discoveries of molecular mechanisms controlling the circadian rhythm\"",
+          "affiliations": [
+            {
+              "name": "Rockefeller University",
+              "city": "New York, NY",
+              "country": "USA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "941",
+      "firstname": "Rainer",
+      "surname": "Weiss",
+      "born": "1932-09-29",
+      "died": "0000-00-00",
+      "bornCountry": "Germany",
+      "bornCountryCode": "DE",
+      "bornCity": "Berlin",
+      "gender": "male",
+      "prizes": [
+        {
+          "year": "2017",
+          "category": "physics",
+          "share": "2",
+          "motivation": "\"for decisive contributions to the LIGO detector and the observation of gravitational waves\"",
+          "affiliations": [
+            {
+              "name": "LIGO/VIRGO Collaboration"
+            },
+            {
+              "name": "Massachusetts Institute of Technology (MIT)",
+              "city": "Cambridge, MA",
+              "country": "USA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "942",
+      "firstname": "Barry C.",
+      "surname": "Barish",
+      "born": "1936-01-27",
+      "died": "0000-00-00",
+      "bornCountry": "USA",
+      "bornCountryCode": "US",
+      "bornCity": "Omaha, NE",
+      "gender": "male",
+      "prizes": [
+        {
+          "year": "2017",
+          "category": "physics",
+          "share": "4",
+          "motivation": "\"for decisive contributions to the LIGO detector and the observation of gravitational waves\"",
+          "affiliations": [
+            {
+              "name": "LIGO/VIRGO Collaboration"
+            },
+            {
+              "name": "California Institute of Technology (Caltech)",
+              "city": "Pasadena, CA",
+              "country": "USA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "943",
+      "firstname": "Kip S.",
+      "surname": "Thorne",
+      "born": "1940-06-01",
+      "died": "0000-00-00",
+      "bornCountry": "USA",
+      "bornCountryCode": "US",
+      "bornCity": "Logan, UT",
+      "gender": "male",
+      "prizes": [
+        {
+          "year": "2017",
+          "category": "physics",
+          "share": "4",
+          "motivation": "\"for decisive contributions to the LIGO detector and the observation of gravitational waves\"",
+          "affiliations": [
+            {
+              "name": "LIGO/VIRGO Collaboration"
+            },
+            {
+              "name": "California Institute of Technology (Caltech)",
+              "city": "Pasadena, CA",
+              "country": "USA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "944",
+      "firstname": "Jacques",
+      "surname": "Dubochet",
+      "born": "1942-06-08",
+      "died": "0000-00-00",
+      "bornCountry": "Switzerland",
+      "bornCountryCode": "CH",
+      "bornCity": "Aigle",
+      "gender": "male",
+      "prizes": [
+        {
+          "year": "2017",
+          "category": "chemistry",
+          "share": "3",
+          "motivation": "\"for developing cryo-electron microscopy for the high-resolution structure determination of biomolecules in solution\"",
+          "affiliations": [
+            {
+              "name": "University of Lausanne",
+              "city": "Lausanne",
+              "country": "Switzerland"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "945",
+      "firstname": "Joachim",
+      "surname": "Frank",
+      "born": "1940-09-12",
+      "died": "0000-00-00",
+      "bornCountry": "Germany",
+      "bornCountryCode": "DE",
+      "bornCity": "Siegen",
+      "gender": "male",
+      "prizes": [
+        {
+          "year": "2017",
+          "category": "chemistry",
+          "share": "3",
+          "motivation": "\"for developing cryo-electron microscopy for the high-resolution structure determination of biomolecules in solution\"",
+          "affiliations": [
+            {
+              "name": "Columbia University",
+              "city": "New York, NY",
+              "country": "USA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "946",
+      "firstname": "Richard",
+      "surname": "Henderson",
+      "born": "1945-07-19",
+      "died": "0000-00-00",
+      "bornCountry": "Scotland",
+      "bornCountryCode": "GB",
+      "bornCity": "Edinburgh",
+      "gender": "male",
+      "prizes": [
+        {
+          "year": "2017",
+          "category": "chemistry",
+          "share": "3",
+          "motivation": "\"for developing cryo-electron microscopy for the high-resolution structure determination of biomolecules in solution\"",
+          "affiliations": [
+            {
+              "name": "MRC Laboratory of Molecular Biology",
+              "city": "Cambridge",
+              "country": "United Kingdom"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "947",
+      "firstname": "Kazuo",
+      "surname": "Ishiguro",
+      "born": "1954-11-08",
+      "died": "0000-00-00",
+      "bornCountry": "Japan",
+      "bornCountryCode": "JP",
+      "bornCity": "Nagasaki",
+      "gender": "male",
+      "prizes": [
+        {
+          "year": "2017",
+          "category": "literature",
+          "share": "1",
+          "motivation": "\"who, in novels of great emotional force, has uncovered the abyss beneath our illusory sense of connection with the world\"",
+          "affiliations": [
+            []
+          ]
+        }
+      ]
+    },
+    {
+      "id": "948",
+      "firstname": "International Campaign to Abolish Nuclear Weapons (ICAN)",
+      "born": "2007-00-00",
+      "died": "0000-00-00",
+      "gender": "org",
+      "prizes": [
+        {
+          "year": "2017",
+          "category": "peace",
+          "share": "1",
+          "motivation": "\"for its work to draw attention to the catastrophic humanitarian consequences of any use of nuclear weapons and for its ground-breaking efforts to achieve a treaty-based prohibition of such weapons\"",
+          "affiliations": [
+            []
+          ]
+        }
+      ]
+    },
+    {
+      "id": "949",
+      "firstname": "Richard H.",
+      "surname": "Thaler",
+      "born": "1945-09-12",
+      "died": "0000-00-00",
+      "bornCountry": "USA",
+      "bornCountryCode": "US",
+      "bornCity": "East Orange, NJ",
+      "gender": "male",
+      "prizes": [
+        {
+          "year": "2017",
+          "category": "economics",
+          "share": "1",
+          "motivation": "\"for his contributions to behavioural economics\"",
+          "affiliations": [
+            {
+              "name": "University of Chicago",
+              "city": "Chicago, IL",
+              "country": "USA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "958",
+      "firstname": "James P.",
+      "surname": "Allison",
+      "born": "1948-08-07",
+      "died": "0000-00-00",
+      "bornCountry": "USA",
+      "bornCountryCode": "US",
+      "bornCity": "Alice, TX",
+      "gender": "male",
+      "prizes": [
+        {
+          "year": "2018",
+          "category": "medicine",
+          "share": "2",
+          "motivation": "\"for their discovery of cancer therapy by inhibition of negative immune regulation\"",
+          "affiliations": [
+            {
+              "name": "Parker Institute for Cancer Immunotherapy",
+              "city": "San Francisco, CA",
+              "country": "USA"
+            },
+            {
+              "name": "University of Texas MD Anderson Cancer Center",
+              "city": "Houston, TX",
+              "country": "USA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "959",
+      "firstname": "Tasuku",
+      "surname": "Honjo",
+      "born": "1942-01-27",
+      "died": "0000-00-00",
+      "bornCountry": "Japan",
+      "bornCountryCode": "JP",
+      "bornCity": "Kyoto",
+      "gender": "male",
+      "prizes": [
+        {
+          "year": "2018",
+          "category": "medicine",
+          "share": "2",
+          "motivation": "\"for their discovery of cancer therapy by inhibition of negative immune regulation\"",
+          "affiliations": [
+            {
+              "name": "Kyoto University",
+              "city": "Kyoto",
+              "country": "Japan"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "960",
+      "firstname": "Arthur",
+      "surname": "Ashkin",
+      "born": "1922-09-02",
+      "died": "2020-09-21",
+      "bornCountry": "USA",
+      "bornCountryCode": "US",
+      "bornCity": "New York, NY",
+      "diedCountry": "USA",
+      "diedCountryCode": "US",
+      "diedCity": "Rumson, NJ",
+      "gender": "male",
+      "prizes": [
+        {
+          "year": "2018",
+          "category": "physics",
+          "overallMotivation": "\"for groundbreaking inventions in the field of laser physics\"",
+          "share": "2",
+          "motivation": "\"for the optical tweezers and their application to biological systems\"",
+          "affiliations": [
+            {
+              "name": "Bell Laboratories",
+              "city": "Holmdel, NJ",
+              "country": "USA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "961",
+      "firstname": "Gérard",
+      "surname": "Mourou",
+      "born": "1944-06-22",
+      "died": "0000-00-00",
+      "bornCountry": "France",
+      "bornCountryCode": "FR",
+      "bornCity": "Albertville",
+      "gender": "male",
+      "prizes": [
+        {
+          "year": "2018",
+          "category": "physics",
+          "overallMotivation": "\"for groundbreaking inventions in the field of laser physics\"",
+          "share": "4",
+          "motivation": "\"for their method of generating high-intensity, ultra-short optical pulses\"",
+          "affiliations": [
+            {
+              "name": "École Polytechnique",
+              "city": "Palaiseau",
+              "country": "France"
+            },
+            {
+              "name": "University of Michigan",
+              "city": "Ann Arbor, MI",
+              "country": "USA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "962",
+      "firstname": "Donna",
+      "surname": "Strickland",
+      "born": "1959-05-27",
+      "died": "0000-00-00",
+      "bornCountry": "Canada",
+      "bornCountryCode": "CA",
+      "bornCity": "Guelph",
+      "gender": "female",
+      "prizes": [
+        {
+          "year": "2018",
+          "category": "physics",
+          "overallMotivation": "\"for groundbreaking inventions in the field of laser physics\"",
+          "share": "4",
+          "motivation": "\"for their method of generating high-intensity, ultra-short optical pulses\"",
+          "affiliations": [
+            {
+              "name": "University of Waterloo",
+              "city": "Waterloo",
+              "country": "Canada"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "963",
+      "firstname": "Frances H.",
+      "surname": "Arnold",
+      "born": "1956-07-25",
+      "died": "0000-00-00",
+      "bornCountry": "USA",
+      "bornCountryCode": "US",
+      "bornCity": "Pittsburgh, PA",
+      "gender": "female",
+      "prizes": [
+        {
+          "year": "2018",
+          "category": "chemistry",
+          "share": "2",
+          "motivation": "\"for the directed evolution of enzymes\"",
+          "affiliations": [
+            {
+              "name": "California Institute of Technology (Caltech)",
+              "city": "Pasadena, CA",
+              "country": "USA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "964",
+      "firstname": "George P.",
+      "surname": "Smith",
+      "born": "1941-03-10",
+      "died": "0000-00-00",
+      "bornCountry": "USA",
+      "bornCountryCode": "US",
+      "bornCity": "Norwalk, CT",
+      "gender": "male",
+      "prizes": [
+        {
+          "year": "2018",
+          "category": "chemistry",
+          "share": "4",
+          "motivation": "\"for the phage display of peptides and antibodies\"",
+          "affiliations": [
+            {
+              "name": "University of Missouri",
+              "city": "Columbia",
+              "country": "USA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "965",
+      "firstname": "Sir Gregory P.",
+      "surname": "Winter",
+      "born": "1951-04-14",
+      "died": "0000-00-00",
+      "bornCountry": "United Kingdom",
+      "bornCountryCode": "GB",
+      "bornCity": "Leicester",
+      "gender": "male",
+      "prizes": [
+        {
+          "year": "2018",
+          "category": "chemistry",
+          "share": "4",
+          "motivation": "\"for the phage display of peptides and antibodies\"",
+          "affiliations": [
+            {
+              "name": "MRC Laboratory of Molecular Biology",
+              "city": "Cambridge",
+              "country": "United Kingdom"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "966",
+      "firstname": "Denis",
+      "surname": "Mukwege",
+      "born": "1955-03-01",
+      "died": "0000-00-00",
+      "bornCountry": "Belgian Congo (now Democratic Republic of the Congo)",
+      "bornCountryCode": "CD",
+      "bornCity": "Bukavu",
+      "gender": "male",
+      "prizes": [
+        {
+          "year": "2018",
+          "category": "peace",
+          "share": "2",
+          "motivation": "\"for their efforts to end the use of sexual violence as a weapon of war and armed conflict\"",
+          "affiliations": [
+            []
+          ]
+        }
+      ]
+    },
+    {
+      "id": "967",
+      "firstname": "Nadia",
+      "surname": "Murad",
+      "born": "1993-00-00",
+      "died": "0000-00-00",
+      "bornCountry": "Iraq",
+      "bornCountryCode": "IQ",
+      "bornCity": "Kojo",
+      "gender": "female",
+      "prizes": [
+        {
+          "year": "2018",
+          "category": "peace",
+          "share": "2",
+          "motivation": "\"for their efforts to end the use of sexual violence as a weapon of war and armed conflict\"",
+          "affiliations": [
+            []
+          ]
+        }
+      ]
+    },
+    {
+      "id": "968",
+      "firstname": "William D.",
+      "surname": "Nordhaus",
+      "born": "1941-05-31",
+      "died": "0000-00-00",
+      "bornCountry": "USA",
+      "bornCountryCode": "US",
+      "bornCity": "Albuquerque, NM",
+      "gender": "male",
+      "prizes": [
+        {
+          "year": "2018",
+          "category": "economics",
+          "share": "2",
+          "motivation": "\"for integrating climate change into long-run macroeconomic analysis\"",
+          "affiliations": [
+            {
+              "name": "Yale University",
+              "city": "New Haven, CT",
+              "country": "USA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "969",
+      "firstname": "Paul M.",
+      "surname": "Romer",
+      "born": "1955-00-00",
+      "died": "0000-00-00",
+      "bornCountry": "USA",
+      "bornCountryCode": "US",
+      "bornCity": "Denver, CO",
+      "gender": "male",
+      "prizes": [
+        {
+          "year": "2018",
+          "category": "economics",
+          "share": "2",
+          "motivation": "\"for integrating technological innovations into long-run macroeconomic analysis\"",
+          "affiliations": [
+            {
+              "name": "NYU Stern School of Business",
+              "city": "New York, NY",
+              "country": "USA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "970",
+      "firstname": "William",
+      "surname": "Kaelin",
+      "born": "1957-11-23",
+      "died": "0000-00-00",
+      "bornCountry": "USA",
+      "bornCountryCode": "US",
+      "bornCity": "New York, NY",
+      "gender": "male",
+      "prizes": [
+        {
+          "year": "2019",
+          "category": "medicine",
+          "share": "3",
+          "motivation": "\"for their discoveries of how cells sense and adapt to oxygen availability\"",
+          "affiliations": [
+            {
+              "name": "Harvard Medical School",
+              "city": "Boston, MA",
+              "country": "USA"
+            },
+            {
+              "name": "Howard Hughes Medical Institute",
+              "city": "Chevy Chase, MD",
+              "country": "USA"
+            },
+            {
+              "name": "Dana-Farber Cancer Institute",
+              "city": "Boston, MA",
+              "country": "USA"
+            },
+            {
+              "name": "Brigham and Women's Hospital",
+              "city": "Boston, MA",
+              "country": "USA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "971",
+      "firstname": "Peter",
+      "surname": "Ratcliffe",
+      "born": "1954-05-14",
+      "died": "0000-00-00",
+      "bornCountry": "United Kingdom",
+      "bornCountryCode": "GB",
+      "bornCity": "Lancashire",
+      "gender": "male",
+      "prizes": [
+        {
+          "year": "2019",
+          "category": "medicine",
+          "share": "3",
+          "motivation": "\"for their discoveries of how cells sense and adapt to oxygen availability\"",
+          "affiliations": [
+            {
+              "name": "University of Oxford",
+              "city": "Oxford",
+              "country": "United Kingdom"
+            },
+            {
+              "name": "Francis Crick Institute",
+              "city": "London",
+              "country": "United Kingdom"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "972",
+      "firstname": "Gregg",
+      "surname": "Semenza",
+      "born": "1956-07-12",
+      "died": "0000-00-00",
+      "bornCountry": "USA",
+      "bornCountryCode": "US",
+      "bornCity": "New York, NY",
+      "gender": "male",
+      "prizes": [
+        {
+          "year": "2019",
+          "category": "medicine",
+          "share": "3",
+          "motivation": "\"for their discoveries of how cells sense and adapt to oxygen availability\"",
+          "affiliations": [
+            {
+              "name": "Johns Hopkins University",
+              "city": "Baltimore, MD",
+              "country": "USA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "973",
+      "firstname": "James",
+      "surname": "Peebles",
+      "born": "1935-04-25",
+      "died": "0000-00-00",
+      "bornCountry": "Canada",
+      "bornCountryCode": "CA",
+      "bornCity": "Winnipeg",
+      "gender": "male",
+      "prizes": [
+        {
+          "year": "2019",
+          "category": "physics",
+          "overallMotivation": "\"for contributions to our understanding of the evolution of the universe and Earth’s place in the cosmos\"",
+          "share": "2",
+          "motivation": "\"for theoretical discoveries in physical cosmology\"",
+          "affiliations": [
+            {
+              "name": "Princeton University",
+              "city": "Princeton, NJ",
+              "country": "USA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "974",
+      "firstname": "Michel",
+      "surname": "Mayor",
+      "born": "1942-01-12",
+      "died": "0000-00-00",
+      "bornCountry": "Switzerland",
+      "bornCountryCode": "CH",
+      "bornCity": "Lausanne",
+      "gender": "male",
+      "prizes": [
+        {
+          "year": "2019",
+          "category": "physics",
+          "overallMotivation": "\"for contributions to our understanding of the evolution of the universe and Earth’s place in the cosmos\"",
+          "share": "4",
+          "motivation": "\"for the discovery of an exoplanet orbiting a solar-type star\"",
+          "affiliations": [
+            {
+              "name": "University of Geneva",
+              "city": "Geneva",
+              "country": "Switzerland"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "975",
+      "firstname": "Didier",
+      "surname": "Queloz",
+      "born": "1966-02-23",
+      "died": "0000-00-00",
+      "bornCountry": "Switzerland",
+      "bornCountryCode": "CH",
+      "bornCity": "Geneva",
+      "gender": "male",
+      "prizes": [
+        {
+          "year": "2019",
+          "category": "physics",
+          "overallMotivation": "\"for contributions to our understanding of the evolution of the universe and Earth’s place in the cosmos\"",
+          "share": "4",
+          "motivation": "\"for the discovery of an exoplanet orbiting a solar-type star\"",
+          "affiliations": [
+            {
+              "name": "University of Geneva",
+              "city": "Geneva",
+              "country": "Switzerland"
+            },
+            {
+              "name": "University of Cambridge",
+              "city": "Cambridge",
+              "country": "United Kingdom"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "976",
+      "firstname": "John",
+      "surname": "Goodenough",
+      "born": "1922-07-25",
+      "died": "0000-00-00",
+      "bornCountry": "Germany",
+      "bornCountryCode": "DE",
+      "bornCity": "Jena",
+      "gender": "male",
+      "prizes": [
+        {
+          "year": "2019",
+          "category": "chemistry",
+          "share": "3",
+          "motivation": "\"for the development of lithium-ion batteries\"",
+          "affiliations": [
+            {
+              "name": "University of Texas",
+              "city": "Austin, TX",
+              "country": "USA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "977",
+      "firstname": "M. Stanley",
+      "surname": "Whittingham",
+      "born": "1941-12-22",
+      "died": "0000-00-00",
+      "bornCountry": "United Kingdom",
+      "bornCountryCode": "GB",
+      "gender": "male",
+      "prizes": [
+        {
+          "year": "2019",
+          "category": "chemistry",
+          "share": "3",
+          "motivation": "\"for the development of lithium-ion batteries\"",
+          "affiliations": [
+            {
+              "name": "Binghamton University, State University of New York",
+              "city": "New York, NY",
+              "country": "USA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "978",
+      "firstname": "Akira",
+      "surname": "Yoshino",
+      "born": "1948-01-30",
+      "died": "0000-00-00",
+      "bornCountry": "Japan",
+      "bornCountryCode": "JP",
+      "bornCity": "Suita",
+      "gender": "male",
+      "prizes": [
+        {
+          "year": "2019",
+          "category": "chemistry",
+          "share": "3",
+          "motivation": "\"for the development of lithium-ion batteries\"",
+          "affiliations": [
+            {
+              "name": "Asahi Kasei Corporation",
+              "city": "Tokyo",
+              "country": "Japan"
+            },
+            {
+              "name": "Meijo University",
+              "city": "Nagoya",
+              "country": "Japan"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "979",
+      "firstname": "Olga",
+      "surname": "Tokarczuk",
+      "born": "1962-01-29",
+      "died": "0000-00-00",
+      "bornCountry": "Poland",
+      "bornCountryCode": "PL",
+      "bornCity": "Sulechów",
+      "gender": "female",
+      "prizes": [
+        {
+          "year": "2018",
+          "category": "literature",
+          "share": "1",
+          "motivation": "\"for a narrative imagination that with encyclopedic passion represents the crossing of boundaries as a form of life\"",
+          "affiliations": [
+            []
+          ]
+        }
+      ]
+    },
+    {
+      "id": "980",
+      "firstname": "Peter",
+      "surname": "Handke",
+      "born": "1942-12-06",
+      "died": "0000-00-00",
+      "bornCountry": "Austria",
+      "bornCountryCode": "AT",
+      "bornCity": "Griffen",
+      "gender": "male",
+      "prizes": [
+        {
+          "year": "2019",
+          "category": "literature",
+          "share": "1",
+          "motivation": "\"for an influential work that with linguistic ingenuity has explored the periphery and the specificity of human experience\"",
+          "affiliations": [
+            []
+          ]
+        }
+      ]
+    },
+    {
+      "id": "981",
+      "firstname": "Abiy",
+      "surname": "Ahmed Ali",
+      "born": "1976-08-15",
+      "died": "0000-00-00",
+      "bornCountry": "Ethiopia",
+      "bornCountryCode": "ET",
+      "bornCity": "Beshasha",
+      "gender": "male",
+      "prizes": [
+        {
+          "year": "2019",
+          "category": "peace",
+          "share": "1",
+          "motivation": "\"for his efforts to achieve peace and international cooperation, and in particular for his decisive initiative to resolve the border conflict with neighbouring Eritrea\"",
+          "affiliations": [
+            []
+          ]
+        }
+      ]
+    },
+    {
+      "id": "982",
+      "firstname": "Abhijit",
+      "surname": "Banerjee",
+      "born": "1961-02-21",
+      "died": "0000-00-00",
+      "bornCountry": "India",
+      "bornCountryCode": "IN",
+      "bornCity": "Mumbai",
+      "gender": "male",
+      "prizes": [
+        {
+          "year": "2019",
+          "category": "economics",
+          "share": "3",
+          "motivation": "\"for their experimental approach to alleviating global poverty\"",
+          "affiliations": [
+            {
+              "name": "Massachusetts Institute of Technology (MIT)",
+              "city": "Cambridge, MA",
+              "country": "USA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "983",
+      "firstname": "Esther",
+      "surname": "Duflo",
+      "born": "1972-10-25",
+      "died": "0000-00-00",
+      "bornCountry": "France",
+      "bornCountryCode": "FR",
+      "bornCity": "Paris",
+      "gender": "female",
+      "prizes": [
+        {
+          "year": "2019",
+          "category": "economics",
+          "share": "3",
+          "motivation": "\"for their experimental approach to alleviating global poverty\"",
+          "affiliations": [
+            {
+              "name": "Massachusetts Institute of Technology (MIT)",
+              "city": "Cambridge, MA",
+              "country": "USA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "984",
+      "firstname": "Michael",
+      "surname": "Kremer",
+      "born": "1964-11-12",
+      "died": "0000-00-00",
+      "bornCountry": "USA",
+      "bornCountryCode": "US",
+      "bornCity": "New York, NY",
+      "gender": "male",
+      "prizes": [
+        {
+          "year": "2019",
+          "category": "economics",
+          "share": "3",
+          "motivation": "\"for their experimental approach to alleviating global poverty\"",
+          "affiliations": [
+            {
+              "name": "Harvard University",
+              "city": "Cambridge, MA",
+              "country": "USA"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
