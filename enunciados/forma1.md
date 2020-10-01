@@ -1,10 +1,11 @@
 # Interrogación 1 IIC2513 sección 1 2020/2
-
-## Plazo de entrega: 01 de octubre de 2020 hasta las 23:59 hrs
+> Forma 1
+>
+> **Plazo de entrega: 01 de octubre de 2020 hasta las 23:59 hrs**
 
 La prueba consiste en 3 preguntas prácticas que deberás desarrollar en un proyecto Node.js base al que puedes acceder [desde aquí](https://github.com/IIC2513-2020-2/interrogation-one). En el README encontrarás las instrucciones para correr el proyecto. En particular, tú sólo deberás modificar archivos dentro de la carpeta `src`.
 
-Cuando termines tu prueba, debes comprimir esta carpeta en un zip, y subirla al [formulario publicado]().
+Cuando termines tu prueba, debes comprimir esta carpeta en un zip, y subirla al [formulario publicado](https://forms.gle/TNBd4C6nMDW9mD587).
 
 **OJO: No se aceptarán otras formas de entrega.**
 
@@ -15,6 +16,7 @@ En esta primera parte, utilizarás datos publicados por el [Data Observatory](ht
 Puedes ver el detalle de los datos utilizando el objeto `covid` que fue puesto en `index.js` para tu comodidad. Tendrás que analizar su estructura para resolver esta pregunta. Además, encontrarás en este mismo archivo unas líneas comentadas con un ejemplo para probar tu solución (por supuesto, debes utilizar un path correspondiente a tu forma).
 
 ### Consideraciones
+- **DEBES** responder sólo utilizando vanilla JavaScript (JavaScript puro). **NO PUEDES** agregar más dependencias
 - Los datos incluyen arreglos según días. Puedes suponer que están ordenados desde más reciente a más antiguo
 - Puedes suponer además que los datos no serán nunca vacíos (siempre tendremos información aunque sea de un día)
 
@@ -51,25 +53,26 @@ El objetivo de esta pregunta es implementar la función `buildLaureatesInfo()` p
 Cada elemento del array corresponderá a un ganador, y tendrá la siguiente estructura:
 ```javascript
 {
-  year,
-  category, 
-  id,
-  firstname,
-  surname,
-  motivation,
-  share,
-  born,
-  bornCountry,
+  year, // Año del premio
+  category, // Categoría del premio
+  id, // Id del ganador
+  firstname, // Primer nombre del ganador
+  surname, // Apellido del ganador
+  motivation, // Motivación del premio
+  share, // "Share" del premio
+  born, // Fecha de nacimiento del ganador
+  bornCountry, // País de origen del ganador
 }
 ```
 
 ## Consideraciones
+- **DEBES** responder sólo utilizando vanilla JavaScript (JavaScript puro). **NO PUEDES** agregar más dependencias
 - Los primeros dos atributos (`year`, `category`) son del premio en sí, no del ganador
-- Los dos últimos atributos (`born`, `bornCountry`)son de un ganador específico. No vienen incluidos en el retorno de `getPrizes`, sino que deberás llamar a `getLaureate` para obtenerlos
+- Los dos últimos atributos (`born`, `bornCountry`) son de un ganador específico. No vienen incluidos en el retorno de `getPrizes`, sino que deberás llamar a `getLaureate` para obtenerlos
 - De forma intencional **NO TODOS** los ganadores que se obtienen de `getPrizes` tienen información detallada luego de llamar a `getLaureate`. En otras palabras, al llamar a `getLaureate` con algunos de los ganadores, **la promesa será rechazada**.
 - La función `buildLaureatesInfo()` **DEBE** retornar una promesa que **SIEMPRE** resuelva al array descrito. **NO DEBE** ser rechazada
 - En base a lo anterior, en los casos en que `getLaureate` sea rechazada, debes omitir las propiedades `born` y `bornCountry` en el objeto resultante
-- Verás que la función buildLaureatesInfo está marcada como async. Siéntete libre de quitarle esto si prefieres retornar la promesa tú mismo, pero **DEBE** retornar una promesa
+- Verás que la función `buildLaureatesInfo` está marcada como async. Siéntete libre de quitarle esto si prefieres retornar la promesa tú mism@, pero **DEBE** retornar una promesa
 
 ## Pregunta 3 (2 pts)
 
@@ -77,7 +80,7 @@ En esta última parte de la interrogación, deberás utilizar información corre
 
 No deberás realizar ningún request HTTP, sino que tendrás a tu disposición el objeto `todosResponse`, que tiene la estructura `{ status, headers, body }`, correspondiente a información del response. El objeto se obtuvo luego de hacer un request a [esta URL](https://jsonplaceholder.typicode.com/todos), pero fue procesado para utilizarlo directamente en esta pregunta. Dentro de este objeto, encontrarás la propiedad `body` que contiene una lista de objetos que representan un "todo" list.
 
-Dentro del archivo `src/forma1/pregunta3.js`, encontrarás una función llamada `renderHttpResponse`, que al final hace una llamada a una función `render`, la cual recibe un objeto. Esta función `render` es la encargada de generar una vista HTML, utilizando la información recibida en el parámetro (similar a `ctx.render` en el proyecto). Inicialmente recibe un objeto vacío, pero **debes modificarlo** para que reciba lo que estimes conveniente pasarle a la vista.
+Dentro del archivo `src/forma1/pregunta3.js`, encontrarás una función llamada `renderHttpResponse`, que al final hace una llamada a una función `render`, la cual recibe un objeto. Esta función `render` es la encargada de generar una vista HTML, utilizando la información recibida en el parámetro (similar a `ctx.render` en el proyecto). Inicialmente recibe un objeto vacío, pero **debes modificarlo** para que reciba lo que estimes conveniente pasarle a la vista. Fíjate además en el output de la variable `codes` que también tienes disponible. Puede servirte para lo que viene.
 
 Para implementar la vista, debes modificar el archivo `src/templates/index.html.ejs`. Verás que ya viene con una estructura HTML definida y tú sólo debes modificar lo que está dentro de `<div class="centered"></div>`.
 
@@ -114,6 +117,7 @@ Completed
 
 ## Consideraciones
 - Puedes probar tu solución en `index.js`, importando la función desde `src/forma1/pregunta3.js` y llamándola. Al hacerlo, se generará un archivo `output.html` en la raíz del proyecto. Puedes abrir este archivo en el browser para verificar tu implementación.
+- **DEBES** responder sólo utilizando vanilla JavaScript (JavaScript puro) y EJS. **NO PUEDES** agregar más dependencias
 
 ---
 
