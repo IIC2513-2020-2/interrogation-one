@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML Interrogación 1</title>
+    <style>
+      body {
+        background-color: #37474F;
+        margin: 0;
+        padding: 0;
+      }
+      .centered {
+        width: 60%;
+        background-color: white;
+        padding: 10px;
+        border-radius: 10px;
+        margin: 40px auto;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="centered">
+      <!-- Your code here -->
+      <h1><em><%= codes[status] %></em></h1>
+      <p><%= status %></p>
+      <section class="headers">
+        <h2>Headers</h2>
+        <ul>
+          <li><strong>Content-length</strong>: <%= headers['content-length'] %></li>
+          <li><strong>Date</strong>: <%= headers['date'] %></li>
+        </ul>
+      </section>
+      <section class="body">
+        <h2>Body</h2>
+        <ul>
+          <% body.forEach((photo) => { %>
+            <li class="photo">
+              <h3><%= photo.title %></h3>
+              <img src="<%= photo.thumbnailUrl %>" />
+            </li>
+          <% }) %>
+        </ul>
+      </section>
+    </div>
+  </body>
+</html>

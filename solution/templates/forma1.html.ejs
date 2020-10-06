@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML Interrogación 1</title>
+    <style>
+      body {
+        background-color: #37474F;
+        margin: 0;
+        padding: 0;
+      }
+      .centered {
+        width: 60%;
+        background-color: white;
+        padding: 10px;
+        border-radius: 10px;
+        margin: 40px auto;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="centered">
+      <!-- Your code here -->
+      <h1><%= status %> (<em><%= codes[status] %></em>)</h1>
+      <section class="headers">
+        <h2>Headers</h2>
+        <ul>
+          <li><strong>Content-type</strong>: <%= headers['content-type'] %></li>
+          <li><strong>Cache-control</strong>: <%= headers['cache-control'] %></li>
+        </ul>
+      </section>
+      <section class="body">
+        <h2>Body</h2>
+        <ul>
+          <% body.forEach((todo) => { %>
+            <li class="todo">
+              <h3><%= todo.title %></h3>
+              <p><%= todo.completed ? 'Completed' : 'Pending' %></p>
+            </li>
+          <% }) %>
+        </ul>
+      </section>
+    </div>
+  </body>
+</html>

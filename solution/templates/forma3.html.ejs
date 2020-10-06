@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML Interrogación 1</title>
+    <style>
+      body {
+        background-color: #37474F;
+        margin: 0;
+        padding: 0;
+      }
+      .centered {
+        width: 60%;
+        background-color: white;
+        padding: 10px;
+        border-radius: 10px;
+        margin: 40px auto;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="centered">
+      <!-- Your code here -->
+      <h1>Responses HTTP</h1>
+      <ul>
+        <% postsResponses.forEach(({ status, headers, body }) => { %>
+          <li class="response">
+            <h2><%= codes[status] %> (<em><%= status %></em>)</h2>
+            <section class="headers">
+              <h2>Headers</h2>
+              <ul>
+                <li><strong>Content-encoding</strong>: <%= headers['content-encoding'] %></li>
+                <li><strong>Expect-ct</strong>: <%= headers['expect-ct'] %></li>
+              </ul>
+            </section>
+            <section class="body">
+              <h2>Body</h2>
+              <div class="post">
+                <h3><%= body.title %></h3>
+                <p><%= body.body %></p>
+              </div>
+            </section>
+          </li>
+        <% }) %>
+      </ul>
+    </div>
+  </body>
+</html>
