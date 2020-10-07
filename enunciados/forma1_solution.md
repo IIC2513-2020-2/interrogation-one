@@ -42,6 +42,8 @@ Debes **implementar 4 funciones** que se encuentran dentro del archivo `src/form
 
 ### Solución
 
+**Nota**: hay un typo en `getStaticticsByRegion` (debiese ser `getStatisticsByRegion`), pero como la prueba fue publicada así, se corregirá tal cual estaba
+
 ```javascript
 function getMostRecentCases(rawData) {
   /* Write your solution here */
@@ -104,11 +106,11 @@ function getStaticticsByRegion(rawData) {
 
 1. `getMostRecentCases` **(0.5pts)**
     - Función corre sin problemas (no se cae) (0.1 pts)
-    - Output es el esperado (0.2pt)
+    - Output es el esperado (0.2 pts)
       - Si está hardcoded, no asignar puntaje
       - Queda a criterio del corrector asignar parte del puntaje si hay leves diferencias en output
-    - Se usa como criterio para filtrar el día más reciente (0.1pt)
-    - Se filtra el array original (0.1pt)
+    - Se usa como criterio para filtrar el día más reciente (0.1 pts)
+    - Se filtra el array original (0.1 pts)
 2. `transformCasesByRegion` **(0.5pts)**
     - Función corre sin problemas (no se cae) (0.1 pts)
     - Output es el esperado (0.2 pts)
@@ -124,7 +126,7 @@ function getStaticticsByRegion(rawData) {
     - El cálculo se hace sin considerar la "región" `"Total"` (que corresponde al total nacional, no a una región) (0.2 pts)
 4. `getStaticticsByRegion` **(0.5pts)**
     - Función corre sin problemas (no se cae) (0.1 pts)
-    - Output es el esperado (0.2pt)
+    - Output es el esperado (0.2 pts)
       - Si está hardcoded, no asignar puntaje
       - Queda a criterio del corrector asignar parte del puntaje si hay leves diferencias en output
     - Construcción de objeto con regiones como keys (aunque no tengan values correctos) (0.1 pts)
@@ -206,7 +208,7 @@ async function buildLaureatesInfo() {
 - Output es el esperado (0.5 pts)
   - Si está hardcoded, no asignar puntaje
   - Queda a criterio del corrector asignar parte del puntaje si hay leves diferencias en output
-- Dentro del arreglo resultante, cada objeto incluye la información original de cada ganador (0.25 pts)
+- Dentro del arreglo resultante, cada objeto incluye las keys de la información original de cada ganador y del premio (0.25 pts)
 - Por cada ganador, se llama a `getLaureate` (0.25 pts)
 - Se maneja el caso en que la promesa a `getLaureate` es rechazada (0.25 pts)
 - Luego de tener la información específica de cada ganador, se construye el arreglo final (0.25 pts)
@@ -308,11 +310,11 @@ function renderHttpResponse() {
     - Asignar 0.2 pts por cada header
 - Sección body (0.6 pts)
   - Título secundario `Body` (0.1 pts)
-  - Iterar sobre arreglo dentro de `todosResponse.body` (0.2 pts)
+  - Dentro de una lista (`<ul>`, `<ol>`), iterar sobre arreglo en `todosResponse.body` (0.2 pts)
   - Por cada todo, incluir título **resaltado** (0.15 pts)
     - Si no está resaltado, asignar 0.05 pts
   - Por cada todo, incluir párrafo con completitud (0.15 pts)
-    - Si no es un párrafo, asignar 0.05 pts
+    - Si no es un párrafo o etiqueta de similar propósito, asignar 0.05 pts
 
 ---
 
