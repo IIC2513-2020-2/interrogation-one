@@ -28,7 +28,7 @@ Para corregir cada solución entregada, el proyecto incluye el script `test` que
 - El output es generado con `console.log`. Por defecto, Node "corta" algunos objetos a los que se les hace `console.log`, indicando algo como `"... 51 more items"`. Esto no debiese ser problema, pues para el caso específico de estas soluciones, con lo que sí se muestra ya es posible verificar la estructura del objeto resultante
 - Todas las preguntas tienen algo de puntaje por el concepto `"Función corre sin problemas (no se cae)"`. Corriendo los scripts anteriores verás inmediatamente si esto se cumple o no, pues cualquier error aparecerá en la ejecución
 - La pregunta 1 de cada forma tiene 2 test cases. El resto sólo tiene 1.
-- En la pregunta 1 de la `forma1`, la función `getTotalDeaths` tiene dos soluciones posibles (hasta el momento), por lo que el test evalua dos outputs
+- En la pregunta 1 de la `forma3`, la función `getTotalDeaths` tiene dos soluciones posibles (hasta el momento), por lo que el test evalua dos outputs
 - Entre cada solución que evalúes, sólo debes asegurarte de incluir la carpeta `src` correcta. No es necesario borrar nada. Por ejemplo, el archivo `output.html` es eliminado automáticamente antes de generarlo al llamar a la función correspondiente. 
 - Si quieres revisar cuál es el output esperado para cada solución, puedes verlo en los archivos `tests/formaX/preguntaY.json`. Es un archivo grande con el siguiente formato:
   ```json
