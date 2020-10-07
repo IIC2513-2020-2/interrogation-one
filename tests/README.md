@@ -6,7 +6,7 @@ Para corregir cada solución entregada, el proyecto incluye el script `test` que
 
 ## Pasos para corregir una solución
 
-1. Supongamos que disponemos de una solución, que debería corresponder a la carpeta `src` completa. Lo primero que se debe hacer es copiar la carpeta src dentro del proyecto (reemplazará la carpeta `src` original).
+1. Supongamos que disponemos de una solución, que debería corresponder a la carpeta `src` completa. Lo primero que se debe hacer es copiar la carpeta `src` dentro de **la raíz del proyecto** (reemplazará la carpeta `src` original).
 
 2. Luego, dependiendo de la forma que esté implementada en esta solución, corremos el siguiente comando en la raíz del proyecto:
     ```bash
