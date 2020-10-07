@@ -1,0 +1,1046 @@
+{
+  "buildPokedexInfo": [
+    {
+      "input": "",
+      "output": [
+        {
+          "region": "kanto",
+          "name": "bulbasaur",
+          "id": 1,
+          "type": [
+            "Grass",
+            "Poison"
+          ],
+          "spawn_time": "20:00"
+        },
+        {
+          "region": "kanto",
+          "name": "ivysaur",
+          "id": 2,
+          "type": [
+            "Grass",
+            "Poison"
+          ],
+          "spawn_time": "07:00"
+        },
+        {
+          "region": "kanto",
+          "name": "venusaur",
+          "id": 3,
+          "type": [
+            "Grass",
+            "Poison"
+          ],
+          "spawn_time": "11:30"
+        },
+        {
+          "region": "kanto",
+          "name": "charmander",
+          "id": 4,
+          "type": [
+            "Fire"
+          ],
+          "spawn_time": "08:45"
+        },
+        {
+          "region": "kanto",
+          "name": "charmeleon",
+          "id": 5,
+          "type": [
+            "Fire"
+          ],
+          "spawn_time": "19:00"
+        },
+        {
+          "region": "kanto",
+          "name": "charizard",
+          "id": 6,
+          "type": [
+            "Fire",
+            "Flying"
+          ],
+          "spawn_time": "13:34"
+        },
+        {
+          "region": "kanto",
+          "name": "squirtle",
+          "id": 7,
+          "type": [
+            "Water"
+          ],
+          "spawn_time": "04:25"
+        },
+        {
+          "region": "kanto",
+          "name": "wartortle",
+          "id": 8,
+          "type": [
+            "Water"
+          ],
+          "spawn_time": "07:02"
+        },
+        {
+          "region": "kanto",
+          "name": "blastoise",
+          "id": 9,
+          "type": [
+            "Water"
+          ],
+          "spawn_time": "00:06"
+        },
+        {
+          "region": "kanto",
+          "name": "caterpie",
+          "id": 10,
+          "type": [
+            "Bug"
+          ],
+          "spawn_time": "16:35"
+        },
+        {
+          "region": "kanto",
+          "name": "metapod",
+          "id": 11,
+          "type": [
+            "Bug"
+          ],
+          "spawn_time": "02:11"
+        },
+        {
+          "region": "kanto",
+          "name": "butterfree",
+          "id": 12,
+          "type": [
+            "Bug",
+            "Flying"
+          ],
+          "spawn_time": "05:23"
+        },
+        {
+          "region": "kanto",
+          "name": "weedle",
+          "id": 13,
+          "type": [
+            "Bug",
+            "Poison"
+          ],
+          "spawn_time": "02:21"
+        },
+        {
+          "region": "kanto",
+          "name": "kakuna",
+          "id": 14,
+          "type": [
+            "Bug",
+            "Poison"
+          ],
+          "spawn_time": "02:30"
+        },
+        {
+          "region": "kanto",
+          "name": "beedrill",
+          "id": 15,
+          "type": [
+            "Bug",
+            "Poison"
+          ],
+          "spawn_time": "04:50"
+        },
+        {
+          "region": "kanto",
+          "name": "pidgey",
+          "id": 16,
+          "type": [
+            "Normal",
+            "Flying"
+          ],
+          "spawn_time": "01:34"
+        },
+        {
+          "region": "kanto",
+          "name": "pidgeotto",
+          "id": 17,
+          "type": [
+            "Normal",
+            "Flying"
+          ],
+          "spawn_time": "01:30"
+        },
+        {
+          "region": "kanto",
+          "name": "pidgeot",
+          "id": 18,
+          "type": [
+            "Normal",
+            "Flying"
+          ],
+          "spawn_time": "01:50"
+        },
+        {
+          "region": "kanto",
+          "name": "rattata",
+          "id": 19,
+          "type": [
+            "Normal"
+          ],
+          "spawn_time": "01:55"
+        },
+        {
+          "region": "kanto",
+          "name": "raticate",
+          "id": 20,
+          "type": [
+            "Normal"
+          ],
+          "spawn_time": "01:56"
+        },
+        {
+          "region": "kanto",
+          "name": "spearow",
+          "id": 21,
+          "type": [
+            "Normal",
+            "Flying"
+          ],
+          "spawn_time": "12:25"
+        },
+        {
+          "region": "kanto",
+          "name": "fearow",
+          "id": 22,
+          "type": [
+            "Normal",
+            "Flying"
+          ],
+          "spawn_time": "01:11"
+        },
+        {
+          "region": "kanto",
+          "name": "ekans",
+          "id": 23,
+          "type": [
+            "Poison"
+          ],
+          "spawn_time": "12:20"
+        },
+        {
+          "region": "kanto",
+          "name": "arbok",
+          "id": 24,
+          "type": [
+            "Poison"
+          ],
+          "spawn_time": "01:50"
+        },
+        {
+          "region": "kanto",
+          "name": "pikachu",
+          "id": 25,
+          "type": [
+            "Electric"
+          ],
+          "spawn_time": "04:00"
+        },
+        {
+          "region": "kanto",
+          "name": "raichu",
+          "id": 26,
+          "type": [
+            "Electric"
+          ],
+          "spawn_time": "23:58"
+        },
+        {
+          "region": "kanto",
+          "name": "sandshrew",
+          "id": 27,
+          "type": [
+            "Ground"
+          ],
+          "spawn_time": "01:58"
+        },
+        {
+          "region": "kanto",
+          "name": "sandslash",
+          "id": 28,
+          "type": [
+            "Ground"
+          ],
+          "spawn_time": "12:34"
+        },
+        {
+          "region": "kanto",
+          "name": "nidoran-f"
+        },
+        {
+          "region": "kanto",
+          "name": "nidorina",
+          "id": 30,
+          "type": [
+            "Poison"
+          ],
+          "spawn_time": "07:22"
+        },
+        {
+          "region": "kanto",
+          "name": "nidoqueen",
+          "id": 31,
+          "type": [
+            "Poison",
+            "Ground"
+          ],
+          "spawn_time": "12:35"
+        },
+        {
+          "region": "kanto",
+          "name": "nidoran-m"
+        },
+        {
+          "region": "kanto",
+          "name": "nidorino",
+          "id": 33,
+          "type": [
+            "Poison"
+          ],
+          "spawn_time": "09:02"
+        },
+        {
+          "region": "kanto",
+          "name": "nidoking",
+          "id": 34,
+          "type": [
+            "Poison",
+            "Ground"
+          ],
+          "spawn_time": "12:16"
+        },
+        {
+          "region": "kanto",
+          "name": "clefairy",
+          "id": 35,
+          "type": [
+            "Normal"
+          ],
+          "spawn_time": "03:30"
+        },
+        {
+          "region": "kanto",
+          "name": "clefable",
+          "id": 36,
+          "type": [
+            "Normal"
+          ],
+          "spawn_time": "03:29"
+        },
+        {
+          "region": "kanto",
+          "name": "vulpix",
+          "id": 37,
+          "type": [
+            "Fire"
+          ],
+          "spawn_time": "13:43"
+        },
+        {
+          "region": "kanto",
+          "name": "ninetales",
+          "id": 38,
+          "type": [
+            "Fire"
+          ],
+          "spawn_time": "01:32"
+        },
+        {
+          "region": "kanto",
+          "name": "jigglypuff",
+          "id": 39,
+          "type": [
+            "Normal"
+          ],
+          "spawn_time": "08:46"
+        },
+        {
+          "region": "kanto",
+          "name": "wigglytuff",
+          "id": 40,
+          "type": [
+            "Normal"
+          ],
+          "spawn_time": "12:28"
+        },
+        {
+          "region": "kanto",
+          "name": "zubat",
+          "id": 41,
+          "type": [
+            "Poison",
+            "Flying"
+          ],
+          "spawn_time": "12:28"
+        },
+        {
+          "region": "kanto",
+          "name": "golbat",
+          "id": 42,
+          "type": [
+            "Poison",
+            "Flying"
+          ],
+          "spawn_time": "02:15"
+        },
+        {
+          "region": "kanto",
+          "name": "oddish",
+          "id": 43,
+          "type": [
+            "Grass",
+            "Poison"
+          ],
+          "spawn_time": "03:58"
+        },
+        {
+          "region": "kanto",
+          "name": "gloom",
+          "id": 44,
+          "type": [
+            "Grass",
+            "Poison"
+          ],
+          "spawn_time": "11:33"
+        },
+        {
+          "region": "kanto",
+          "name": "vileplume",
+          "id": 45,
+          "type": [
+            "Grass",
+            "Poison"
+          ],
+          "spawn_time": "23:58"
+        },
+        {
+          "region": "kanto",
+          "name": "paras",
+          "id": 46,
+          "type": [
+            "Bug",
+            "Grass"
+          ],
+          "spawn_time": "01:42"
+        },
+        {
+          "region": "kanto",
+          "name": "parasect",
+          "id": 47,
+          "type": [
+            "Bug",
+            "Grass"
+          ],
+          "spawn_time": "01:22"
+        },
+        {
+          "region": "kanto",
+          "name": "venonat",
+          "id": 48,
+          "type": [
+            "Bug",
+            "Poison"
+          ],
+          "spawn_time": "02:31"
+        },
+        {
+          "region": "kanto",
+          "name": "venomoth",
+          "id": 49,
+          "type": [
+            "Bug",
+            "Poison"
+          ],
+          "spawn_time": "23:40"
+        },
+        {
+          "region": "kanto",
+          "name": "diglett",
+          "id": 50,
+          "type": [
+            "Ground"
+          ],
+          "spawn_time": "02:22"
+        },
+        {
+          "region": "kanto",
+          "name": "dugtrio"
+        },
+        {
+          "region": "kanto",
+          "name": "meowth"
+        },
+        {
+          "region": "kanto",
+          "name": "persian"
+        },
+        {
+          "region": "kanto",
+          "name": "psyduck"
+        },
+        {
+          "region": "kanto",
+          "name": "golduck"
+        },
+        {
+          "region": "kanto",
+          "name": "mankey"
+        },
+        {
+          "region": "kanto",
+          "name": "primeape"
+        },
+        {
+          "region": "kanto",
+          "name": "growlithe"
+        },
+        {
+          "region": "kanto",
+          "name": "arcanine"
+        },
+        {
+          "region": "kanto",
+          "name": "poliwag"
+        },
+        {
+          "region": "kanto",
+          "name": "poliwhirl"
+        },
+        {
+          "region": "kanto",
+          "name": "poliwrath"
+        },
+        {
+          "region": "kanto",
+          "name": "abra"
+        },
+        {
+          "region": "kanto",
+          "name": "kadabra"
+        },
+        {
+          "region": "kanto",
+          "name": "alakazam"
+        },
+        {
+          "region": "kanto",
+          "name": "machop"
+        },
+        {
+          "region": "kanto",
+          "name": "machoke"
+        },
+        {
+          "region": "kanto",
+          "name": "machamp"
+        },
+        {
+          "region": "kanto",
+          "name": "bellsprout"
+        },
+        {
+          "region": "kanto",
+          "name": "weepinbell"
+        },
+        {
+          "region": "kanto",
+          "name": "victreebel"
+        },
+        {
+          "region": "kanto",
+          "name": "tentacool"
+        },
+        {
+          "region": "kanto",
+          "name": "tentacruel"
+        },
+        {
+          "region": "kanto",
+          "name": "geodude"
+        },
+        {
+          "region": "kanto",
+          "name": "graveler"
+        },
+        {
+          "region": "kanto",
+          "name": "golem"
+        },
+        {
+          "region": "kanto",
+          "name": "ponyta"
+        },
+        {
+          "region": "kanto",
+          "name": "rapidash"
+        },
+        {
+          "region": "kanto",
+          "name": "slowpoke"
+        },
+        {
+          "region": "kanto",
+          "name": "slowbro"
+        },
+        {
+          "region": "kanto",
+          "name": "magnemite"
+        },
+        {
+          "region": "kanto",
+          "name": "magneton"
+        },
+        {
+          "region": "kanto",
+          "name": "farfetchd"
+        },
+        {
+          "region": "kanto",
+          "name": "doduo"
+        },
+        {
+          "region": "kanto",
+          "name": "dodrio"
+        },
+        {
+          "region": "kanto",
+          "name": "seel"
+        },
+        {
+          "region": "kanto",
+          "name": "dewgong"
+        },
+        {
+          "region": "kanto",
+          "name": "grimer"
+        },
+        {
+          "region": "kanto",
+          "name": "muk"
+        },
+        {
+          "region": "kanto",
+          "name": "shellder"
+        },
+        {
+          "region": "kanto",
+          "name": "cloyster"
+        },
+        {
+          "region": "kanto",
+          "name": "gastly"
+        },
+        {
+          "region": "kanto",
+          "name": "haunter"
+        },
+        {
+          "region": "kanto",
+          "name": "gengar"
+        },
+        {
+          "region": "kanto",
+          "name": "onix"
+        },
+        {
+          "region": "kanto",
+          "name": "drowzee"
+        },
+        {
+          "region": "kanto",
+          "name": "hypno"
+        },
+        {
+          "region": "kanto",
+          "name": "krabby"
+        },
+        {
+          "region": "kanto",
+          "name": "kingler"
+        },
+        {
+          "region": "kanto",
+          "name": "voltorb"
+        },
+        {
+          "region": "kanto",
+          "name": "electrode"
+        },
+        {
+          "region": "kanto",
+          "name": "exeggcute"
+        },
+        {
+          "region": "kanto",
+          "name": "exeggutor"
+        },
+        {
+          "region": "kanto",
+          "name": "cubone"
+        },
+        {
+          "region": "kanto",
+          "name": "marowak"
+        },
+        {
+          "region": "kanto",
+          "name": "hitmonlee"
+        },
+        {
+          "region": "kanto",
+          "name": "hitmonchan"
+        },
+        {
+          "region": "kanto",
+          "name": "lickitung"
+        },
+        {
+          "region": "kanto",
+          "name": "koffing"
+        },
+        {
+          "region": "kanto",
+          "name": "weezing"
+        },
+        {
+          "region": "kanto",
+          "name": "rhyhorn"
+        },
+        {
+          "region": "kanto",
+          "name": "rhydon"
+        },
+        {
+          "region": "kanto",
+          "name": "chansey"
+        },
+        {
+          "region": "kanto",
+          "name": "tangela"
+        },
+        {
+          "region": "kanto",
+          "name": "kangaskhan"
+        },
+        {
+          "region": "kanto",
+          "name": "horsea"
+        },
+        {
+          "region": "kanto",
+          "name": "seadra"
+        },
+        {
+          "region": "kanto",
+          "name": "goldeen"
+        },
+        {
+          "region": "kanto",
+          "name": "seaking"
+        },
+        {
+          "region": "kanto",
+          "name": "staryu",
+          "id": 120,
+          "type": [
+            "Water"
+          ],
+          "spawn_time": "22:59"
+        },
+        {
+          "region": "kanto",
+          "name": "starmie",
+          "id": 121,
+          "type": [
+            "Water",
+            "Psychic"
+          ],
+          "spawn_time": "06:57"
+        },
+        {
+          "region": "kanto",
+          "name": "mr-mime"
+        },
+        {
+          "region": "kanto",
+          "name": "scyther",
+          "id": 123,
+          "type": [
+            "Bug",
+            "Flying"
+          ],
+          "spawn_time": "05:43"
+        },
+        {
+          "region": "kanto",
+          "name": "jynx",
+          "id": 124,
+          "type": [
+            "Ice",
+            "Psychic"
+          ],
+          "spawn_time": "05:41"
+        },
+        {
+          "region": "kanto",
+          "name": "electabuzz",
+          "id": 125,
+          "type": [
+            "Electric"
+          ],
+          "spawn_time": "04:28"
+        },
+        {
+          "region": "kanto",
+          "name": "magmar",
+          "id": 126,
+          "type": [
+            "Fire"
+          ],
+          "spawn_time": "20:36"
+        },
+        {
+          "region": "kanto",
+          "name": "pinsir",
+          "id": 127,
+          "type": [
+            "Bug"
+          ],
+          "spawn_time": "03:25"
+        },
+        {
+          "region": "kanto",
+          "name": "tauros",
+          "id": 128,
+          "type": [
+            "Normal"
+          ],
+          "spawn_time": "00:37"
+        },
+        {
+          "region": "kanto",
+          "name": "magikarp",
+          "id": 129,
+          "type": [
+            "Water"
+          ],
+          "spawn_time": "14:26"
+        },
+        {
+          "region": "kanto",
+          "name": "gyarados",
+          "id": 130,
+          "type": [
+            "Water",
+            "Flying"
+          ],
+          "spawn_time": "02:15"
+        },
+        {
+          "region": "kanto",
+          "name": "lapras",
+          "id": 131,
+          "type": [
+            "Water",
+            "Ice"
+          ],
+          "spawn_time": "08:59"
+        },
+        {
+          "region": "kanto",
+          "name": "ditto",
+          "id": 132,
+          "type": [
+            "Normal"
+          ],
+          "spawn_time": "N/A"
+        },
+        {
+          "region": "kanto",
+          "name": "eevee",
+          "id": 133,
+          "type": [
+            "Normal"
+          ],
+          "spawn_time": "05:32"
+        },
+        {
+          "region": "kanto",
+          "name": "vaporeon",
+          "id": 134,
+          "type": [
+            "Water"
+          ],
+          "spawn_time": "10:54"
+        },
+        {
+          "region": "kanto",
+          "name": "jolteon",
+          "id": 135,
+          "type": [
+            "Electric"
+          ],
+          "spawn_time": "02:30"
+        },
+        {
+          "region": "kanto",
+          "name": "flareon",
+          "id": 136,
+          "type": [
+            "Fire"
+          ],
+          "spawn_time": "07:02"
+        },
+        {
+          "region": "kanto",
+          "name": "porygon",
+          "id": 137,
+          "type": [
+            "Normal"
+          ],
+          "spawn_time": "02:49"
+        },
+        {
+          "region": "kanto",
+          "name": "omanyte",
+          "id": 138,
+          "type": [
+            "Rock",
+            "Water"
+          ],
+          "spawn_time": "10:23"
+        },
+        {
+          "region": "kanto",
+          "name": "omastar",
+          "id": 139,
+          "type": [
+            "Rock",
+            "Water"
+          ],
+          "spawn_time": "05:04"
+        },
+        {
+          "region": "kanto",
+          "name": "kabuto",
+          "id": 140,
+          "type": [
+            "Rock",
+            "Water"
+          ],
+          "spawn_time": "00:05"
+        },
+        {
+          "region": "kanto",
+          "name": "kabutops",
+          "id": 141,
+          "type": [
+            "Rock",
+            "Water"
+          ],
+          "spawn_time": "23:40"
+        },
+        {
+          "region": "kanto",
+          "name": "aerodactyl",
+          "id": 142,
+          "type": [
+            "Rock",
+            "Flying"
+          ],
+          "spawn_time": "23:40"
+        },
+        {
+          "region": "kanto",
+          "name": "snorlax",
+          "id": 143,
+          "type": [
+            "Normal"
+          ],
+          "spawn_time": "23:40"
+        },
+        {
+          "region": "kanto",
+          "name": "articuno",
+          "id": 144,
+          "type": [
+            "Ice",
+            "Flying"
+          ],
+          "spawn_time": "N/A"
+        },
+        {
+          "region": "kanto",
+          "name": "zapdos",
+          "id": 145,
+          "type": [
+            "Electric",
+            "Flying"
+          ],
+          "spawn_time": "N/A"
+        },
+        {
+          "region": "kanto",
+          "name": "moltres",
+          "id": 146,
+          "type": [
+            "Fire",
+            "Flying"
+          ],
+          "spawn_time": "N/A"
+        },
+        {
+          "region": "kanto",
+          "name": "dratini",
+          "id": 147,
+          "type": [
+            "Dragon"
+          ],
+          "spawn_time": "06:41"
+        },
+        {
+          "region": "kanto",
+          "name": "dragonair",
+          "id": 148,
+          "type": [
+            "Dragon"
+          ],
+          "spawn_time": "11:57"
+        },
+        {
+          "region": "kanto",
+          "name": "dragonite",
+          "id": 149,
+          "type": [
+            "Dragon",
+            "Flying"
+          ],
+          "spawn_time": "23:38"
+        },
+        {
+          "region": "kanto",
+          "name": "mewtwo",
+          "id": 150,
+          "type": [
+            "Psychic"
+          ],
+          "spawn_time": "N/A"
+        },
+        {
+          "region": "kanto",
+          "name": "mew",
+          "id": 151,
+          "type": [
+            "Psychic"
+          ],
+          "spawn_time": "N/A"
+        }
+      ]
+    }
+  ]
+}
